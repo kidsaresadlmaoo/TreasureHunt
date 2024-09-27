@@ -34,4 +34,6 @@ int main()
         std::cout << "You lost\n";
     }
 }
+/* cant find the porblem with the randomizer treasure, cant hide the treasure to the player
+*/
 /* gamebasic();*/
